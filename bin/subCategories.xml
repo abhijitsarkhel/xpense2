@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<subCategories>
+	<subCategory>
+		<id>1</id>
+		<name>Grocery</name>
+		<categoryId>1</categoryId>
+	</subCategory>
+	<subCategory>
+		<id>2</id>
+		<name>Auto</name>
+		<categoryId>2</categoryId>
+	</subCategory>
+	<subCategory>
+		<id>3</id>
+		<name>Bus</name>
+		<categoryId>2</categoryId>
+	</subCategory>
+	<subCategory>
+		<id>4</id>
+		<name>Cigarates</name>
+		<categoryId>3</categoryId>
+	</subCategory>
+	<subCategory>
+		<id>5</id>
+		<name>Alcohol</name>
+		<categoryId>3</categoryId>
+	</subCategory>
+</subCategories>

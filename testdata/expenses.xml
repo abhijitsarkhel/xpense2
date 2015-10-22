@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<expenses>
+	<expense>
+		<categoryId>1</categoryId>
+		<subCategoryId>1</subCategoryId>
+		<amount>100.0</amount>
+		<created>Thu Oct 20 11:53:45 2015</created>
+	</expense>
+	<expense>
+		<categoryId>2</categoryId>
+		<subCategoryId>2</subCategoryId>
+		<amount>200.0</amount>
+		<created>Thu Oct 20 12:53:45 2015</created>
+	</expense>
+	<expense>
+		<categoryId>2</categoryId>
+		<subCategoryId>3</subCategoryId>
+		<amount>300.0</amount>
+		<created>Thu Oct 20 13:53:45 2015</created>
+	</expense>
+	<expense>
+		<categoryId>3</categoryId>
+		<subCategoryId>4</subCategoryId>
+		<amount>400.0</amount>
+		<created>Thu Oct 21 14:53:45 2015</created>
+	</expense>
+	<expense>
+		<categoryId>3</categoryId>
+		<subCategoryId>5</subCategoryId>
+		<amount>500.0</amount>
+		<created>Thu Oct 21 15:53:45 2015</created>
+	</expense>
+	<expense>
+		<categoryId>1</categoryId>
+		<subCategoryId>1</subCategoryId>
+		<amount>600.0</amount>
+		<created>Thu Oct 22 16:53:45 2015</created>
+	</expense>
+	<expense>
+		<categoryId>2</categoryId>
+		<subCategoryId>2</subCategoryId>
+		<amount>700.0</amount>
+		<created>Thu Oct 22 17:53:45 2015</created>
+	</expense>
+</expenses>
